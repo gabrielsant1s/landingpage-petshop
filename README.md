@@ -1,5 +1,6 @@
-Este projeto foi criando na inteção de aprendizado em Next.js
-Uma Landingpage de PetShop com funcionalidades de carrosel, estilização, importação de icones e funcões do shadcn
+Este projeto foi criando na inteção de aprendizado em Next.js.
+
+Uma Landingpage de PetShop com funcionalidades de carrosel, estilização tailwind, importação de icones e funcões do shadcn
 
 Aprendizado:
 - Utilizar o tailwind
